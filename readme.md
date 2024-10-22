@@ -54,5 +54,4 @@ This task provided hands-on experience with video processing using OpenCV and ma
 
 ```bash
 git clone https://github.com/BertinKimberly/extract_frames_from_video.git
-Navigate to the dataset directory to access the organized frames.
 ```
